@@ -54,7 +54,4 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-Follow the instructions in `Continuous_Solution.ipynb` to get started with training your own agent!  
-
-
-# udacity-exercise-continuous-control
+Follow the instructions in `Continuous_Solution.ipynb` to get started with training your own agent!
